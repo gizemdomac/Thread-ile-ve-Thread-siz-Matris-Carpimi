@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\matris_carpim_thread2\matris_carpim_thread2\bin\Debug\matris_carpim_thread2.exe.config
+c:\users\user\documents\visual studio 2013\Projects\matris_carpim_thread2\matris_carpim_thread2\obj\Debug\matris_carpim_thread2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\matris_carpim_thread2\matris_carpim_thread2\obj\Debug\matris_carpim_thread2.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\matris_carpim_thread2\matris_carpim_thread2\obj\Debug\matris_carpim_thread2.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\matris_carpim_thread2\matris_carpim_thread2\obj\Debug\matris_carpim_thread2.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\matris_carpim_thread2\matris_carpim_thread2\bin\Debug\matris_carpim_thread2.exe
+c:\users\user\documents\visual studio 2013\Projects\matris_carpim_thread2\matris_carpim_thread2\bin\Debug\matris_carpim_thread2.pdb
+c:\users\user\documents\visual studio 2013\Projects\matris_carpim_thread2\matris_carpim_thread2\obj\Debug\matris_carpim_thread2.exe
+c:\users\user\documents\visual studio 2013\Projects\matris_carpim_thread2\matris_carpim_thread2\obj\Debug\matris_carpim_thread2.pdb

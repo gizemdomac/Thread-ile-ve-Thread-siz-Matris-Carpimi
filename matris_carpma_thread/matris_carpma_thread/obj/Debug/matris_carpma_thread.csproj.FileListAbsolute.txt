@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\matris_carpma_thread\matris_carpma_thread\bin\Debug\matris_carpma_thread.exe.config
+c:\users\user\documents\visual studio 2013\Projects\matris_carpma_thread\matris_carpma_thread\bin\Debug\matris_carpma_thread.exe
+c:\users\user\documents\visual studio 2013\Projects\matris_carpma_thread\matris_carpma_thread\bin\Debug\matris_carpma_thread.pdb
+c:\users\user\documents\visual studio 2013\Projects\matris_carpma_thread\matris_carpma_thread\obj\Debug\matris_carpma_thread.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\matris_carpma_thread\matris_carpma_thread\obj\Debug\matris_carpma_thread.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\matris_carpma_thread\matris_carpma_thread\obj\Debug\matris_carpma_thread.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\matris_carpma_thread\matris_carpma_thread\obj\Debug\matris_carpma_thread.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\matris_carpma_thread\matris_carpma_thread\obj\Debug\matris_carpma_thread.exe
+c:\users\user\documents\visual studio 2013\Projects\matris_carpma_thread\matris_carpma_thread\obj\Debug\matris_carpma_thread.pdb

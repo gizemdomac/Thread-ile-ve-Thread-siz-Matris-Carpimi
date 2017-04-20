@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\matris_carpma_odevi_2\matris_carpma_odevi_2\bin\Debug\matris_carpma_odevi_2.exe.config
+c:\users\user\documents\visual studio 2013\Projects\matris_carpma_odevi_2\matris_carpma_odevi_2\bin\Debug\matris_carpma_odevi_2.exe
+c:\users\user\documents\visual studio 2013\Projects\matris_carpma_odevi_2\matris_carpma_odevi_2\bin\Debug\matris_carpma_odevi_2.pdb
+c:\users\user\documents\visual studio 2013\Projects\matris_carpma_odevi_2\matris_carpma_odevi_2\obj\Debug\matris_carpma_odevi_2.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\matris_carpma_odevi_2\matris_carpma_odevi_2\obj\Debug\matris_carpma_odevi_2.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\matris_carpma_odevi_2\matris_carpma_odevi_2\obj\Debug\matris_carpma_odevi_2.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\matris_carpma_odevi_2\matris_carpma_odevi_2\obj\Debug\matris_carpma_odevi_2.exe
+c:\users\user\documents\visual studio 2013\Projects\matris_carpma_odevi_2\matris_carpma_odevi_2\obj\Debug\matris_carpma_odevi_2.pdb
